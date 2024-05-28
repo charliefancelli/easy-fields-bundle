@@ -1,5 +1,5 @@
 {
-    "name": "agence-adeliom/easy-fields-bundle",
+    "name": "pierrebilac/easy-fields-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle for EasyAdmin that provide some fields",
     "keywords": [
