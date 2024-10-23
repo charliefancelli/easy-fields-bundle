@@ -30,7 +30,8 @@
         "symfony/options-resolver": "^5.4|^6.0|^7.0",
         "easycorp/easyadmin-bundle": "^3.4 || ^v4.0",
         "stof/doctrine-extensions-bundle": "^1.6",
-        "embed/embed": "^4.2"
+        "embed/embed": "^4.2",
+        "symfony/psr-http-message-bridge": "^7.1"
     },
     "autoload": {
         "psr-4": {
